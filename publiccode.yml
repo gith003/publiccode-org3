@@ -1,11 +1,11 @@
 publiccode-yaml-version: "http://w3id.org/publiccode/version/0.1"
 
-name: Medusa
-applicationSuite: MegaProductivitySuite
-url: "https://github.com/italia/developers.italia.it.git"        # URL of this repository
+name: MedusaGith003
+applicationSuite: MiniProductivitySuite
+url: "https://github.com/gith003/publiccode-org3.git"        # URL of this repository
 landingURL: "https://developers.italia.it"
 
-isBasedOn: "https://github.com/italia/developers.italia.it.git"   # The original repository, "Otello"
+isBasedOn: "https://github.com/gith002/publiccode-org2.git"   # The original repository, "Otello"
 softwareVersion: "1.0"                                        # Last stable version
 releaseDate: 2017-04-15                     # Date of last stable software release
 logo: tests/img/logo.png
@@ -22,16 +22,7 @@ platforms:                   # or Windows, Mac, Linux, etc.
 
 tags:
   - calendar
-  - chat
-  - classroom-management
-  - museum
-  - music
-  - news
-  - ocr
-  - parallel-computing
-  - revision-control
   - robotics
-  - scanning
   - security
   - sports
 
@@ -164,7 +155,7 @@ it:
 
   riuso:
     # Codice IPA della PA che ha pubblicato questo repo (repo-owner)
-    codiceIPA: c_h501
+    codiceIPA: c_h502
 
   spid: yes
   pagopa: yes
