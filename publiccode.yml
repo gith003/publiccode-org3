@@ -5,7 +5,7 @@ applicationSuite: MiniProductivitySuite
 url: "https://github.com/gith003/publiccode-org3.git"        # URL of this repository
 landingURL: "https://developers.italia.it"
 
-isBasedOn: "https://github.com/gith002/publiccode-org2.git"   # The original repository, "Otello"
+isBasedOn: "https://github.com/gith002/euriale.git"   # The original repository, "Otello"
 softwareVersion: "1.0"                                        # Last stable version
 releaseDate: 2017-04-15                     # Date of last stable software release
 logo: img/logo.png
@@ -77,9 +77,7 @@ description:
 
     featureList:
        - Very important feature
-       - Will run without a problem
-       - Has zero bugs
-       - Solves all the problems of the universe!
+       - Solves all the problems of the universe!!
        - Supports Vorgon poems
     screenshots:
        - img/sshot1.png
