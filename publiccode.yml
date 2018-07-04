@@ -12,12 +12,12 @@ logo: img/logo.png
 monochromeLogo: img/logo-mono.svg
 
 inputTypes:
-  - text/plain
+  - text/MedusaGith003
 outputTypes:
-  - text/plain
+  - MedusaGith003/plain
 
 platforms:                   # or Windows, Mac, Linux, etc.
-  - android
+  - web
   - ios
 
 tags:
@@ -28,12 +28,12 @@ tags:
 
 freeTags:
   eng:
-    - english-free-tag
+    - free-gorgon-tag-MedusaGith003
   ita:
-    - tag-libero-italiano
+    - tag-libero-gorgone-MedusaGith003
 
 usedBy:
-  - Comune di Firenze
+  - Comune di Bagnacavallo
   - Comune di Roma
 
 roadmap: "https://designers.italia.it/roadmap/"
